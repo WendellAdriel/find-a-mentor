@@ -1,0 +1,13 @@
+{
+  "main.css": "https://mentors.codingcoach.io/static/css/main.2fcfad08.chunk.css",
+  "main.js": "https://mentors.codingcoach.io/static/js/main.c19edb59.chunk.js",
+  "main.js.map": "https://mentors.codingcoach.io/static/js/main.c19edb59.chunk.js.map",
+  "static/js/1.0e90c722.chunk.js": "https://mentors.codingcoach.io/static/js/1.0e90c722.chunk.js",
+  "static/js/1.0e90c722.chunk.js.map": "https://mentors.codingcoach.io/static/js/1.0e90c722.chunk.js.map",
+  "runtime~main.js": "https://mentors.codingcoach.io/static/js/runtime~main.3647bf1c.js",
+  "runtime~main.js.map": "https://mentors.codingcoach.io/static/js/runtime~main.3647bf1c.js.map",
+  "static/css/main.2fcfad08.chunk.css.map": "https://mentors.codingcoach.io/static/css/main.2fcfad08.chunk.css.map",
+  "index.html": "https://mentors.codingcoach.io/index.html",
+  "precache-manifest.f846eb4c97d6f70efd5b4bc3ad631173.js": "https://mentors.codingcoach.io/precache-manifest.f846eb4c97d6f70efd5b4bc3ad631173.js",
+  "service-worker.js": "https://mentors.codingcoach.io/service-worker.js"
+}
